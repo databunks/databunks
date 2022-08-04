@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on an encrypted messaging app (Lock-Chat)
 - 🌱 I’m currently learning C++ and typescript
 - 👯 I’m looking to collaborate on Lock-Chat
-- 🤔 I’m looking for help with front end work
+- 🤔 I’m looking for help with front end work (React)
 - 📫 How to reach me: sahaq2001@gmail.com
 
 
