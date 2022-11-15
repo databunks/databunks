@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an encrypted messaging app (Lock-Chat)
+- 🔭 I’m currently working on an encrypted messaging app (Muhkfi)
 - 🌱 I’m currently learning C++ and typescript
 - 📫 How to reach me: Discord: Never Idle#5789, Email: neveridle200@gmail.com
 
