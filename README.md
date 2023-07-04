@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 📫 How to reach me: Discord: Never Idle#5789, Email: neveridle200@gmail.com
+- 📫 How to reach me: sahaq2001@gmail.com
+- Im into cyber security and networking
 
 
 
