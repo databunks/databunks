@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: sahaq2001@gmail.com
+- 📫 How to reach me: samisam32244@gmail.com
 
 
 
